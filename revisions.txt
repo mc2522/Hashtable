@@ -1,0 +1,35 @@
+commit 3d1c0a244bba3345520a6b23c14c5fbd2aa0e910
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Sat Mar 9 23:19:36 2019 -0500
+
+    completed everything.
+
+commit 67d00e3de524a773d20a16f63d393df325cd248f
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Sat Mar 9 19:32:27 2019 -0500
+
+    attempt to rehash
+
+commit 9f7077def95d0f8d5ff6557e930c254a7e20137a
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Thu Mar 7 12:39:24 2019 -0500
+
+    get and set is fixed. Driver runs perfect as of now. Need to update freeTable for freeing keys. rehash.
+
+commit 63834388eac08ebe612c36d6412c755c05be4bde
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Thu Mar 7 02:38:11 2019 -0500
+
+    Almost complete. Must check for mistakes and need to rehash.
+
+commit b0c655fa44b152a847a60d95140c29909a63c2c5
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Mar 6 23:34:05 2019 -0500
+
+    completed first function. Have to check if it works.
+
+commit c1e66c1b41800d728ce3ad67035a430748f63454
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Tue Mar 5 15:10:01 2019 -0500
+
+    Beginning of the file. Added required functions as per hashtable.h
